@@ -22,6 +22,7 @@ const geistMono = Roboto({
 });
 const nunitoSans = Nunito_Sans({
   subsets: ["latin"],
+  variable: "--font-nunito-sans",
   weight: ["300", "400", "600", "700"], // Add the specific weights you want to use
 }); 
 
